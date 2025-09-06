@@ -10,7 +10,7 @@ const imageAltClass = 'img_alt';
 
 
 const defaultSiteLanguage = 'en-us';
-const baseURL = 'https://example.org/';
+const baseURL = 'https://changfeng001.github.io/';
 const searchFieldClass = '.search_field';
 const searchClass = '.search';
 const goBackClass = 'button_back';
